@@ -22,3 +22,7 @@ This project investigates if customer responses to some survey questions (e.g. i
 ### 1.2 Path of the learning experience
 
 The patterns in the data has been explored in order to create models to predict new events, like customer product preferences. The experience with machine-learning algorithms has been deepened; how to optimize the initial performance of a classifier by adjusting its parameters has been practised. 
+
+## 2. 
+
+### 2.1

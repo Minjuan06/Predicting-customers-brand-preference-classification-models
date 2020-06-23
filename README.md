@@ -23,6 +23,38 @@ This project investigates if customer responses to some survey questions (e.g. i
 
 The patterns in the data has been explored in order to create models to predict new events, like customer product preferences. The experience with machine-learning algorithms has been deepened; how to optimize the initial performance of a classifier by adjusting its parameters has been practised. 
 
-## 2. 
+## 2. Exploring data
+
+After loading the "CompleteResponses" dataset, some information of the dataset is as below:
+
+Data Types:
+salary     float64
+age          int64
+elevel       int64
+car          int64
+zipcode      int64
+credit     float64
+brand        int64
+dtype: object
+
+Rows and Columns:
+(9898, 7)
+
+Column Names:
+Index(['salary', 'age', 'elevel', 'car', 'zipcode', 'credit', 'brand'], dtype='object')
+
+
+Null Values:
+salary     0.0
+age        0.0
+elevel     0.0
+car        0.0
+zipcode    0.0
+credit     0.0
+brand      0.0
+
+dtype: float64
+
+
 
 ### 2.1
